@@ -1,0 +1,15 @@
+{
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "3A4ra33MtGuvRa8CgSJRbJCmHm11x3fpGBGRA6U47N8R",
+      "symbol": "MOO",
+      "name": "MOO GOLD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/<your-github>/token-list/main/assets/mainnet/3A4ra33MtGuvRa8CgSJRbJCmHm11x3fpGBGRA6U47N8R/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    }
+  ]
+}
